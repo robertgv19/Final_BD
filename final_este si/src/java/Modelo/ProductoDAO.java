@@ -46,9 +46,9 @@ public class ProductoDAO {
                         productos.add(p);
                     }
                 }catch (Exception e){
-                    System.out.println("ERROR PT: "+e);
+                    
                 }
-                System.out.println("Robert el mas kbro");
+                
                 return productos;
     }
     
